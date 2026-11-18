@@ -19,6 +19,7 @@ Outside of tech, I'm a **powerlifter** and have competed at the French national 
 ![Cisco IOS](https://img.shields.io/badge/Cisco_IOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Packet Tracer](https://img.shields.io/badge/Packet_Tracer-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -32,7 +33,7 @@ Outside of tech, I'm a **powerlifter** and have competed at the French national 
 | Repo | What's inside |
 |---|---|
 | [**networking-labs**](https://github.com/younes-mouhri/networking-labs) | Cisco switching, routing, VLANs, IPv4/IPv6, SSH. Physical gear and Packet Tracer. |
-| [**system-scripting**](https://github.com/younes-mouhri/system-scripting) | PowerShell scripts and Windows administration exercises. |
+| [**system-scripting**](https://github.com/younes-mouhri/system-scripting) | PowerShell scripts for Windows administration and a [Python CLI](https://github.com/younes-mouhri/system-scripting/blob/main/python/04-system-network-admin/README.md) for directory inspection, hostname and port service lookups, and text reports. |
 
 ---
 
